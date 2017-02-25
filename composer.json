@@ -10,7 +10,7 @@
 	"type" : "library",
 	"require" : {
 		"php" : ">=5.4",
-		"league/flysystem-sftp": "~1.0",
+		"league/flysystem": "~1.0",
 		"splitice/radical-common": "dev-master"
 	},
 	"require-dev" : {
